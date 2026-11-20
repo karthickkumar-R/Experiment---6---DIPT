@@ -92,14 +92,13 @@ plt.axis('off')
 
 ## Output
 
-<img width="1022" height="493" alt="image" src="https://github.com/user-attachments/assets/7ba574ba-69cd-4d7c-ad92-5d757a8cb48f" />
+<img width="291" height="396" alt="image" src="https://github.com/user-attachments/assets/c08aedaa-e63a-40c4-9675-565d47f9820c" />
 
-<img width="1115" height="500" alt="image" src="https://github.com/user-attachments/assets/cd3ab14a-7984-48f4-841b-12d5eb781ecb" />
+<img width="301" height="395" alt="image" src="https://github.com/user-attachments/assets/665e9271-2e0f-4139-b023-c549e45b48a3" />
 
-<img width="1192" height="485" alt="image" src="https://github.com/user-attachments/assets/8ffd2633-cb30-4c52-bbd7-403d59bc00a4" />
+<img width="301" height="396" alt="image" src="https://github.com/user-attachments/assets/a9e33117-b1dd-4883-a1f5-364e9c66cffb" />
 
-<img width="1186" height="492" alt="image" src="https://github.com/user-attachments/assets/17a14655-7d37-4db0-805b-0b48529fcfa5" />
-
+<img width="302" height="402" alt="image" src="https://github.com/user-attachments/assets/409aca1a-bcc3-48ef-b227-a085e315ee3b" />
 
 
 ###  Sobel Edge Detector
